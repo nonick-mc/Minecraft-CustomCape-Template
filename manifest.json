@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "§l§bCAPES SKIN PACK §eBy §aItsBlueDev §7 revisioned by NULL1017",
+        "uuid": "1a9b3b43-790c-58f5-c0f8-c8818eec3723",
+        "version": [
+            0,
+            1,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "68d0fa23-0393-a190-820d-3f272b8afe18",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "skins": [
+	{
+      "localization_name": "スキン+マントの組み合わせの名前",
+      "geometry": "geometry.humanoid.custom",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "スキンの名前(拡張子も含める)",
+      "cape": "マントの名前(拡張子も含める)",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "By NULL1017",
+  "localization_name": "By NULL1017"
+}
